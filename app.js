@@ -20,7 +20,7 @@ app.get('/language', function (req, res) {
 })
 
 app.get('/', function (req, res) {
-  res.send('Hello World !')
+  res.send('Hello World ! 2')
 })
 
 app.post('/', function (req, res) {
